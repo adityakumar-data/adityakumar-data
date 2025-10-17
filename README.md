@@ -40,7 +40,7 @@ Data Cleaning 🧹 | EDA 📊 | Visualization 🎨 | Statistical Thinking 📈 |
 ### 💬 Let’s Connect  
 📧 **Email:** [aaditya131202@gmail.com](mailto:aaditya131202@gmail.com)  
 🌐 **GitHub:** [adityakumar-data](https://github.com/adityakumar-data)  
-💼 **LinkedIn:** *(Add your profile link once ready — I can help you write a perfect headline & summary for it)*  
+  
 
 ---
 
