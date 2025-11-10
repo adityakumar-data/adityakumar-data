@@ -18,6 +18,23 @@ I enjoy exploring real-world datasets and transforming raw information into mean
 
 ### Featured Projects  
 
+#### [UK Job Market Pulse (2025)](https://github.com/adityakumar-data/UK-Job-Market-Pulse)  
+An in-depth analysis of the **UK Data Job Market**, combining Python and Tableau to uncover patterns in job titles, locations, and salaries.  
+The project includes:  
+- Data cleaning and aggregation using Python  
+- Salary and city-wise trend visualizations  
+- An **interactive Tableau dashboard** for job role insights  
+
+**Key Insights:**  
+- Data Scientist and Data Engineer roles dominate the market  
+- London, Manchester, and Bristol have the highest job opportunities  
+- Most roles offer salaries between £40K–£70K annually  
+
+**Tableau Dashboard:**  
+[View Here](https://public.tableau.com/views/Book1_17625244994960/UKDataJobsOverviewDashboard)
+
+---
+
 #### [UK House Price Prediction (2015–2024)](https://github.com/adityakumar-data/UK-House-Price-Prediction)  
 An end-to-end data analysis and machine learning project that studies UK house prices from 2015 to 2024.  
 This project involves:  
